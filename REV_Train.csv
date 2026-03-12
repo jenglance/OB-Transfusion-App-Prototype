@@ -1,0 +1,1735 @@
+﻿CesareanDelivery,InductionUsed,Units,Cesarean Indications
+0,1,0,Vaginal
+1,0,2,Repeat
+1,0,2,Repeat
+1,0,0,Elective
+1,1,2,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+0,0,1,Vaginal
+1,0,1,Repeat
+1,0,0,Repeat
+1,1,2,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,1,0,Vaginal
+0,0,0,Vaginal
+0,1,0,Vaginal
+0,0,2,Vaginal
+0,0,1,Vaginal
+1,0,0,Repeat
+1,0,0,Repeat
+1,0,0,Failed Induction of labor
+1,0,0,Elective
+0,0,2,Vaginal
+0,0,1,Vaginal
+0,1,0,Vaginal
+1,0,1,Repeat
+0,0,0,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,0,0,Failed Induction of labor
+0,1,0,Vaginal
+1,1,1,Failed Induction of labor
+0,1,0,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,0,1,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,1,1,Failed Induction of labor
+1,0,1,medical or surgical indication for C/S
+0,0,0,Vaginal
+1,1,0,Failed Induction of labor
+0,1,1,Vaginal
+0,1,1,Vaginal
+0,1,2,Vaginal
+0,1,1,Vaginal
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,1,1,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+0,0,0,medical or surgical indication for C/S
+1,0,2,Failed Induction of labor
+1,0,2,Elective
+1,0,1,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,0,Repeat
+0,0,0,Vaginal
+1,0,1,medical or surgical indication for C/S
+0,0,3,Vaginal
+0,0,2,Vaginal
+1,0,0,Failed Induction of labor
+0,1,0,Vaginal
+0,1,2,Vaginal
+1,0,1,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,1,0,Vaginal
+0,1,1,Vaginal
+0,1,2,Vaginal
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,0,Elective
+1,0,2,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,0,2,Vaginal
+1,0,0,Repeat
+1,0,0,Other
+0,1,1,Vaginal
+1,0,2,Repeat
+1,0,0,Macrosomia
+1,0,3,medical or surgical indication for C/S
+1,0,2,Repeat
+1,0,2,Repeat
+1,1,1,Failed Induction of labor
+0,1,2,Vaginal
+1,1,2,Failed Induction of labor
+1,0,1,Repeat
+1,0,2,Repeat
+0,1,1,Vaginal
+0,1,0,Vaginal
+1,0,0,medical or surgical indication for C/S
+0,0,0,Vaginal
+1,0,1,Other
+1,0,0,Elective
+0,1,2,Vaginal
+1,0,3,Repeat
+1,0,2,Repeat
+1,0,0,Other
+1,0,0,Other
+0,0,1,Vaginal
+1,0,0,Repeat
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,0,Repeat
+0,1,2,Vaginal
+1,1,1,Failed Induction of labor
+0,0,0,Vaginal
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,1,Vaginal
+0,1,2,Vaginal
+1,1,3,Failed Induction of labor
+0,1,1,Vaginal
+1,0,0,medical or surgical indication for C/S
+1,1,1,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,0,1,Repeat
+0,0,0,Vaginal
+0,0,2,Vaginal
+1,0,0,Repeat
+0,0,0,Vaginal
+1,0,0,Failed Induction of labor
+1,0,0,Other
+1,1,2,medical or surgical indication for C/S
+1,0,2,Repeat
+0,0,0,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,2,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,2,Other
+0,1,1,Vaginal
+0,1,2,Vaginal
+1,0,0,Elective
+0,1,1,Vaginal
+1,0,0,Vaginal
+1,0,2,Macrosomia
+0,1,1,Vaginal
+1,0,0,Elective
+1,1,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,0,0,Other
+1,0,2,Repeat
+0,0,1,Vaginal
+1,1,1,Repeat
+1,0,0,Repeat
+0,1,0,Vaginal
+1,0,1,Repeat
+0,1,2,Vaginal
+1,0,1,Repeat
+1,0,1,Other
+0,1,1,Vaginal
+1,0,0,Elective
+0,0,2,Vaginal
+0,1,0,Vaginal
+0,0,1,Vaginal
+0,0,2,Vaginal
+0,1,2,Vaginal
+1,0,0,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+1,0,1,Repeat
+1,0,2,Repeat
+1,1,2,medical or surgical indication for C/S
+1,0,1,Repeat
+0,1,1,Vaginal
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,2,Failed Induction of labor
+0,1,2,Vaginal
+1,0,1,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,2,Other
+1,1,2,Failed Induction of labor
+1,0,1,Other
+0,1,2,Vaginal
+1,0,0,Elective
+0,0,3,Vaginal
+0,1,2,Vaginal
+1,1,2,Failed Induction of labor
+1,1,2,Repeat
+1,0,2,Other
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,1,1,Failed Induction of labor
+1,0,0,Failed Induction of labor
+1,0,1,medical or surgical indication for C/S
+0,0,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,1,2,Failed Induction of labor
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,1,1,Failed Induction of labor
+0,1,2,Vaginal
+1,0,1,Repeat
+0,0,2,Vaginal
+0,1,1,Vaginal
+1,1,1,Failed Induction of labor
+1,1,2,Failed Induction of labor
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+0,1,2,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,0,0,Macrosomia
+0,1,2,Vaginal
+0,1,1,Vaginal
+0,1,3,Vaginal
+0,1,1,Vaginal
+0,0,2,Vaginal
+0,1,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+0,0,0,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,0,Failed Induction of labor
+0,0,0,Vaginal
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,2,Failed Induction of labor
+1,1,2,Failed Induction of labor
+0,1,0,Vaginal
+1,0,1,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,0,3,Vaginal
+1,0,0,Repeat
+1,0,0,Other
+0,1,2,Vaginal
+1,0,1,Repeat
+1,0,1,Repeat
+0,0,1,Vaginal
+0,1,1,Vaginal
+0,1,0,Vaginal
+1,1,2,Failed Induction of labor
+0,0,2,Vaginal
+0,0,2,Vaginal
+1,0,3,medical or surgical indication for C/S
+0,1,1,Vaginal
+0,0,2,Vaginal
+1,0,1,Repeat
+1,0,0,Failed Induction of labor
+1,0,2,Repeat
+0,1,0,Vaginal
+0,1,0,Vaginal
+0,1,2,Vaginal
+1,1,2,Failed Induction of labor
+1,0,2,Repeat
+0,0,2,Vaginal
+1,0,2,Failed Induction of labor
+0,0,1,Vaginal
+0,1,3,Vaginal
+0,0,1,Vaginal
+1,1,2,Failed Induction of labor
+1,1,2,Failed Induction of labor
+1,0,1,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,0,Repeat
+0,0,1,Vaginal
+0,0,2,Vaginal
+1,0,0,medical or surgical indication for C/S
+1,0,1,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+0,1,2,Vaginal
+0,0,2,Vaginal
+0,1,0,Vaginal
+0,1,2,Vaginal
+0,0,2,Vaginal
+0,0,0,Failed Induction of labor
+0,0,2,Vaginal
+1,0,2,Repeat
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,1,0,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,0,0,Failed Induction of labor
+0,0,0,Vaginal
+1,0,2,Repeat
+1,0,1,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,1,Repeat
+1,1,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+0,0,2,Vaginal
+0,0,0,Vaginal
+1,0,1,Repeat
+0,1,1,Vaginal
+1,1,2,Failed Induction of labor
+1,1,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,0,2,Repeat
+0,1,1,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+0,0,1,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,0,0,Failed Induction of labor
+1,0,0,Failed Induction of labor
+1,1,2,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,0,0,Vaginal
+0,1,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,1,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,1,2,Vaginal
+1,0,0,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,2,Repeat
+1,1,2,Other
+1,0,2,medical or surgical indication for C/S
+1,1,2,Failed Induction of labor
+0,1,1,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,1,0,Vaginal
+0,1,1,Vaginal
+0,0,1,Vaginal
+1,0,2,Repeat
+0,0,1,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,1,2,Failed Induction of labor
+1,1,2,medical or surgical indication for C/S
+0,0,1,Vaginal
+0,0,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,0,1,Vaginal
+0,0,2,Vaginal
+0,1,0,Vaginal
+1,1,3,Failed Induction of labor
+0,0,0,Vaginal
+1,0,3,Repeat
+1,0,0,Repeat
+0,1,2,Vaginal
+1,0,2,Repeat
+0,1,0,Vaginal
+0,1,0,Vaginal
+0,0,2,Vaginal
+1,0,0,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,1,3,Failed Induction of labor
+1,0,0,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,1,0,Repeat
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,0,0,Vaginal
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,1,2,medical or surgical indication for C/S
+1,0,2,Other
+0,0,3,Vaginal
+1,1,1,medical or surgical indication for C/S
+1,0,1,Macrosomia
+0,0,0,Vaginal
+1,1,0,Repeat
+1,0,1,Other
+1,0,2,Other
+1,0,3,Other
+0,0,1,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,1,2,Other
+1,1,2,Failed Induction of labor
+1,0,1,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,0,1,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+1,0,1,Repeat
+1,0,3,Other
+0,1,2,Vaginal
+0,1,1,Vaginal
+1,0,2,Repeat
+0,1,2,Vaginal
+0,1,1,Vaginal
+1,0,0,Repeat
+1,0,3,medical or surgical indication for C/S
+1,0,0,Other
+1,0,2,Repeat
+0,0,2,Vaginal
+1,0,1,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,0,2,Vaginal
+0,1,0,Vaginal
+1,0,3,medical or surgical indication for C/S
+0,0,0,medical or surgical indication for C/S
+0,0,1,Vaginal
+1,0,3,medical or surgical indication for C/S
+1,0,0,Elective
+1,0,0,Failed Induction of labor
+0,0,2,Vaginal
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,1,Vaginal
+0,1,1,Vaginal
+0,1,1,Vaginal
+1,0,0,Repeat
+1,0,2,Elective
+0,0,1,Vaginal
+1,0,0,Repeat
+1,1,2,Failed Induction of labor
+1,0,1,Repeat
+1,0,1,Elective
+0,1,2,Vaginal
+1,0,3,Other
+1,1,1,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,0,Repeat
+0,0,1,Vaginal
+0,1,1,Vaginal
+0,1,2,Vaginal
+0,0,1,Vaginal
+1,0,0,Failed Induction of labor
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,1,1,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,1,2,Failed Induction of labor
+1,0,3,Elective
+1,0,2,Elective
+0,1,1,Vaginal
+1,0,0,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+1,1,0,Repeat
+0,1,1,Vaginal
+0,1,2,Vaginal
+1,0,2,Repeat
+1,1,2,Other
+1,0,0,Repeat
+0,0,1,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+1,0,2,Repeat
+0,0,0,Vaginal
+1,0,0,Repeat
+1,1,2,Failed Induction of labor
+1,1,0,Repeat
+1,0,3,Failed Induction of labor
+0,0,0,Vaginal
+0,1,1,Vaginal
+0,0,1,Vaginal
+0,1,0,Repeat
+0,0,0,Vaginal
+1,1,1,Failed Induction of labor
+1,1,2,Failed Induction of labor
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,0,Macrosomia
+1,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+0,1,2,Vaginal
+0,0,0,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,1,2,Failed Induction of labor
+0,1,2,Vaginal
+0,1,3,Vaginal
+1,0,0,Failed Induction of labor
+0,1,2,Vaginal
+0,1,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,1,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,0,2,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,0,0,Failed Induction of labor
+0,0,2,Vaginal
+1,0,2,Repeat
+1,0,0,Failed Induction of labor
+0,0,1,Vaginal
+0,0,2,Vaginal
+1,1,2,Failed Induction of labor
+1,0,0,Repeat
+0,1,2,Vaginal
+1,0,0,Repeat
+1,1,1,Failed Induction of labor
+1,0,2,Repeat
+1,0,0,Macrosomia
+1,0,3,Repeat
+1,1,2,Failed Induction of labor
+0,0,2,Vaginal
+0,0,2,Vaginal
+1,0,1,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,1,0,Vaginal
+1,0,0,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+0,0,0,Vaginal
+1,0,0,Repeat
+1,0,2,Repeat
+1,0,1,Repeat
+1,0,2,Repeat
+1,1,0,Repeat
+0,1,1,Vaginal
+1,0,1,Repeat
+1,0,0,Macrosomia
+1,0,1,Repeat
+0,1,2,Vaginal
+0,0,1,Vaginal
+1,0,0,Vaginal
+1,0,0,Failed Induction of labor
+1,0,2,Repeat
+1,0,2,Repeat
+1,0,0,Repeat
+1,0,3,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,3,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,2,Repeat
+0,1,0,Vaginal
+0,0,2,Vaginal
+1,0,2,Repeat
+1,0,3,Failed Induction of labor
+0,0,0,Vaginal
+0,1,2,Vaginal
+1,1,0,Other
+1,0,0,Repeat
+0,0,2,Vaginal
+1,0,0,Failed Induction of labor
+0,1,2,Vaginal
+0,1,0,Vaginal
+0,1,2,Vaginal
+0,0,2,Vaginal
+0,1,2,Vaginal
+1,0,0,Repeat
+0,1,2,Vaginal
+0,1,0,Vaginal
+1,0,1,Repeat
+1,0,3,Repeat
+1,0,2,Repeat
+1,0,2,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,0,1,Vaginal
+1,0,2,Repeat
+1,0,0,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,0,medical or surgical indication for C/S
+1,0,2,Repeat
+0,0,3,Vaginal
+0,1,0,Other
+1,0,1,medical or surgical indication for C/S
+0,0,1,Vaginal
+0,1,0,Vaginal
+1,0,0,Macrosomia
+1,0,2,Repeat
+0,1,0,Vaginal
+1,0,0,Other
+0,0,2,Vaginal
+0,1,2,Vaginal
+1,0,0,Repeat
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,2,Macrosomia
+0,0,0,Vaginal
+0,1,2,Vaginal
+1,0,1,Repeat
+0,0,0,Vaginal
+0,0,0,Vaginal
+0,0,0,Vaginal
+0,1,1,Vaginal
+0,0,0,Vaginal
+1,1,2,Failed Induction of labor
+1,0,1,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,2,Repeat
+0,0,0,Vaginal
+1,0,0,Repeat
+1,0,2,Repeat
+1,0,2,Repeat
+1,1,1,Failed Induction of labor
+1,0,2,Repeat
+1,0,2,medical or surgical indication for C/S
+1,1,2,Failed Induction of labor
+1,1,2,Failed Induction of labor
+0,1,0,Vaginal
+1,0,3,Other
+0,1,0,Vaginal
+0,0,0,Vaginal
+1,0,2,Repeat
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,1,Elective
+0,1,0,Vaginal
+0,0,2,Vaginal
+0,0,2,Vaginal
+0,0,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,0,Repeat
+0,1,1,Vaginal
+1,0,1,Repeat
+1,0,2,Failed Induction of labor
+1,1,2,Elective
+1,1,2,Failed Induction of labor
+1,0,2,Repeat
+0,1,0,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,2,Elective
+0,1,2,Vaginal
+0,1,0,Vaginal
+1,0,0,medical or surgical indication for C/S
+1,0,2,Repeat
+0,0,2,Vaginal
+1,0,2,Elective
+1,0,0,Repeat
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,0,medical or surgical indication for C/S
+1,1,3,Failed Induction of labor
+1,1,2,Elective
+1,0,2,Other
+1,1,2,Failed Induction of labor
+0,1,0,Vaginal
+0,1,0,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,0,Repeat
+0,1,0,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,0,Repeat
+0,1,2,Vaginal
+1,0,2,Repeat
+0,1,0,Failed Induction of labor
+1,1,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,2,Elective
+0,1,2,Vaginal
+1,0,1,Elective
+0,1,0,Vaginal
+0,1,2,Vaginal
+0,0,0,Vaginal
+0,1,0,Vaginal
+1,0,3,Repeat
+1,1,2,Other
+1,0,3,Elective
+0,0,0,Vaginal
+1,0,0,Failed Induction of labor
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,0,1,Vaginal
+0,0,1,Vaginal
+0,0,0,Vaginal
+0,1,0,Vaginal
+0,0,2,Vaginal
+0,1,2,Vaginal
+0,0,2,Vaginal
+0,1,0,Vaginal
+1,1,3,Failed Induction of labor
+0,1,1,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,3,Other
+0,1,0,Elective
+1,0,2,Repeat
+0,1,0,Vaginal
+1,0,2,Other
+1,0,0,Repeat
+0,1,2,Vaginal
+1,0,2,Repeat
+0,0,0,Other
+1,0,1,medical or surgical indication for C/S
+1,0,3,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,0,1,Repeat
+0,0,0,Vaginal
+0,0,2,Vaginal
+1,0,3,Elective
+0,1,0,Other
+1,0,0,Repeat
+0,0,2,Vaginal
+1,0,0,Repeat
+0,1,2,Vaginal
+1,1,2,Failed Induction of labor
+1,0,1,Repeat
+1,0,1,Other
+0,1,2,Vaginal
+1,0,0,Other
+1,0,0,Failed Induction of labor
+1,1,3,medical or surgical indication for C/S
+1,0,1,Repeat
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,0,2,Repeat
+1,0,1,Repeat
+1,1,1,Failed Induction of labor
+1,0,3,Repeat
+1,0,0,Repeat
+0,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+0,0,0,Vaginal
+0,1,2,Vaginal
+0,0,0,medical or surgical indication for C/S
+1,0,3,medical or surgical indication for C/S
+1,0,2,Repeat
+0,1,0,Vaginal
+0,1,0,Failed Induction of labor
+1,0,2,Other
+1,1,2,Failed Induction of labor
+1,0,1,Other
+0,1,0,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,0,Repeat
+1,0,2,Repeat
+0,0,2,Vaginal
+1,0,1,Other
+0,1,0,Vaginal
+1,0,3,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,1,0,Vaginal
+1,1,1,medical or surgical indication for C/S
+1,0,3,Repeat
+0,0,0,Vaginal
+0,1,2,Vaginal
+1,0,2,Elective
+0,0,0,Vaginal
+0,0,0,Vaginal
+0,1,2,Vaginal
+0,0,2,Vaginal
+1,0,3,Repeat
+0,1,2,Vaginal
+0,1,0,Vaginal
+1,1,0,Repeat
+1,1,2,Failed Induction of labor
+0,1,2,Vaginal
+1,1,2,Failed Induction of labor
+1,1,2,Failed Induction of labor
+0,1,2,Vaginal
+1,1,1,Other
+1,0,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,2,Failed Induction of labor
+0,1,1,Vaginal
+1,0,2,Repeat
+1,0,1,Elective
+0,0,0,Vaginal
+0,0,2,Vaginal
+1,0,2,Repeat
+1,0,2,Other
+1,0,2,Repeat
+0,0,1,Vaginal
+1,0,3,Elective
+1,0,2,medical or surgical indication for C/S
+0,0,0,Elective
+0,0,0,Vaginal
+1,0,3,Repeat
+1,1,2,Failed Induction of labor
+1,1,0,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+1,0,0,Repeat
+0,0,2,Vaginal
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,1,Elective
+1,1,2,medical or surgical indication for C/S
+1,0,2,Macrosomia
+0,1,0,Vaginal
+1,0,2,Elective
+0,1,2,Vaginal
+1,1,2,Failed Induction of labor
+1,1,2,Failed Induction of labor
+1,0,2,Repeat
+0,0,0,Vaginal
+1,0,0,medical or surgical indication for C/S
+1,0,1,Repeat
+0,1,0,Vaginal
+1,1,2,Failed Induction of labor
+0,1,0,Vaginal
+1,0,2,Repeat
+0,0,2,Vaginal
+0,1,3,Vaginal
+0,0,2,Vaginal
+0,0,2,Vaginal
+0,1,0,Vaginal
+0,1,3,Vaginal
+0,0,0,medical or surgical indication for C/S
+1,1,2,Elective
+1,0,0,Other
+0,0,0,Vaginal
+0,0,0,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,0,Repeat
+0,0,1,Vaginal
+1,0,0,medical or surgical indication for C/S
+1,0,2,Repeat
+1,1,2,Failed Induction of labor
+0,0,2,Vaginal
+0,1,2,Vaginal
+1,1,2,medical or surgical indication for C/S
+0,0,4,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,0,Repeat
+0,0,2,Vaginal
+1,0,2,Macrosomia
+0,1,0,Vaginal
+1,0,0,Repeat
+0,1,0,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,1,2,Vaginal
+0,1,0,Vaginal
+0,1,0,Vaginal
+1,0,0,Failed Induction of labor
+1,0,0,Repeat
+0,0,0,Vaginal
+0,0,1,Vaginal
+0,1,2,Vaginal
+0,0,0,Vaginal
+1,0,0,Failed Induction of labor
+0,1,0,Vaginal
+0,0,0,Vaginal
+1,1,2,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+0,0,0,Vaginal
+1,1,2,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,0,2,Repeat
+0,1,2,Vaginal
+1,0,2,Macrosomia
+1,0,2,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,2,Repeat
+1,1,2,Failed Induction of labor
+0,0,0,Failed Induction of labor
+1,0,1,Repeat
+1,0,1,Repeat
+0,1,1,Vaginal
+1,0,2,Failed Induction of labor
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,2,Other
+0,0,1,Vaginal
+0,0,0,Vaginal
+1,0,2,Other
+1,0,2,Elective
+1,0,1,Repeat
+0,0,2,Vaginal
+0,1,2,Vaginal
+1,0,3,Failed Induction of labor
+0,0,0,Failed Induction of labor
+1,0,1,Repeat
+1,0,0,Repeat
+1,0,2,Repeat
+1,0,2,Elective
+0,0,0,Vaginal
+0,1,0,Vaginal
+1,0,0,Repeat
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,0,Repeat
+1,0,5,Elective
+0,0,2,Vaginal
+0,1,0,Vaginal
+1,0,0,Repeat
+1,1,2,Repeat
+0,0,2,Vaginal
+0,0,2,Vaginal
+1,1,2,Failed Induction of labor
+1,0,0,Elective
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,2,Failed Induction of labor
+1,1,2,medical or surgical indication for C/S
+1,0,2,Other
+1,0,2,Repeat
+1,1,2,Failed Induction of labor
+1,1,3,medical or surgical indication for C/S
+1,0,0,Repeat
+0,1,0,Vaginal
+0,1,0,Failed Induction of labor
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,0,1,Repeat
+1,1,2,Failed Induction of labor
+1,0,2,Repeat
+1,0,2,Failed Induction of labor
+1,0,1,Failed Induction of labor
+1,0,2,Repeat
+0,1,1,Vaginal
+1,0,0,medical or surgical indication for C/S
+0,0,0,medical or surgical indication for C/S
+0,1,0,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,0,1,Vaginal
+1,0,2,Macrosomia
+1,0,2,Other
+1,0,2,Repeat
+0,1,0,Vaginal
+1,0,0,Failed Induction of labor
+0,0,1,Vaginal
+1,1,0,Repeat
+1,1,1,Failed Induction of labor
+0,1,0,Vaginal
+1,1,1,Failed Induction of labor
+1,0,0,Macrosomia
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,3,Other
+1,0,2,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,0,medical or surgical indication for C/S
+1,0,2,Repeat
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,1,3,Vaginal
+1,0,1,Other
+1,0,1,Repeat
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,2,Repeat
+0,0,0,Vaginal
+1,0,0,Other
+0,0,0,Vaginal
+1,0,1,Repeat
+1,0,2,Repeat
+0,0,2,Vaginal
+0,0,1,Vaginal
+1,0,0,medical or surgical indication for C/S
+1,0,1,Repeat
+1,0,2,Repeat
+0,1,2,Vaginal
+0,1,0,Vaginal
+1,0,3,Repeat
+0,0,0,Vaginal
+0,0,0,Other
+0,0,0,Vaginal
+0,0,2,Vaginal
+0,1,0,Vaginal
+1,0,0,Repeat
+1,0,0,Repeat
+0,1,0,Failed Induction of labor
+1,0,0,Repeat
+0,0,2,Vaginal
+1,1,2,Failed Induction of labor
+0,0,0,medical or surgical indication for C/S
+1,0,1,Repeat
+1,0,0,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,2,Elective
+1,0,0,Other
+1,0,0,Repeat
+1,0,0,medical or surgical indication for C/S
+0,0,0,Failed Induction of labor
+1,1,1,Failed Induction of labor
+1,0,3,Other
+0,1,0,Vaginal
+0,0,2,Vaginal
+0,1,0,Vaginal
+0,1,0,Vaginal
+1,0,0,Other
+1,1,2,Failed Induction of labor
+1,1,2,medical or surgical indication for C/S
+0,1,1,Vaginal
+0,1,0,Repeat
+1,1,0,Repeat
+0,1,0,Vaginal
+1,0,0,Other
+1,0,2,Repeat
+1,0,1,Macrosomia
+1,0,0,Other
+1,0,0,Repeat
+1,0,1,medical or surgical indication for C/S
+1,1,0,Elective
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,1,2,Elective
+1,0,0,Failed Induction of labor
+1,0,2,Repeat
+0,1,0,Vaginal
+0,0,0,Vaginal
+1,0,2,Repeat
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,0,0,Vaginal
+1,0,2,Other
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,2,Other
+1,1,2,Other
+1,0,2,Repeat
+1,1,0,Other
+1,0,2,Other
+0,0,1,Repeat
+1,1,2,Other
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,2,Other
+1,0,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,1,2,medical or surgical indication for C/S
+1,0,2,Failed Induction of labor
+1,0,2,medical or surgical indication for C/S
+1,0,1,Repeat
+0,0,0,medical or surgical indication for C/S
+1,0,0,Other
+1,0,0,Elective
+0,0,2,Vaginal
+1,1,0,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,0,Other
+1,0,1,Other
+0,0,0,Vaginal
+0,1,2,Vaginal
+1,0,0,Repeat
+1,0,0,Repeat
+1,1,2,Failed Induction of labor
+0,0,0,Vaginal
+1,0,0,Repeat
+0,0,2,Vaginal
+1,0,2,Elective
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,1,Failed Induction of labor
+0,1,2,Vaginal
+1,0,0,Macrosomia
+1,0,3,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,3,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,0,3,medical or surgical indication for C/S
+1,0,0,Elective
+1,0,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,2,Other
+1,0,0,Repeat
+0,1,3,Vaginal
+0,0,2,Vaginal
+1,0,2,Repeat
+0,1,0,Vaginal
+1,0,0,Repeat
+1,0,0,Repeat
+0,0,1,Vaginal
+0,1,0,Vaginal
+0,0,1,Vaginal
+1,0,2,Failed Induction of labor
+1,0,1,medical or surgical indication for C/S
+0,0,2,Vaginal
+0,0,1,Vaginal
+0,1,2,Vaginal
+1,0,1,Repeat
+0,0,0,Vaginal
+1,0,2,Repeat
+1,0,3,Other
+1,0,0,Failed Induction of labor
+1,0,2,Repeat
+1,0,2,Repeat
+0,0,2,Vaginal
+1,0,2,Repeat
+1,0,3,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,1,0,Vaginal
+1,0,2,Repeat
+0,1,0,Elective
+0,1,0,Vaginal
+1,0,1,medical or surgical indication for C/S
+0,0,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,1,Failed Induction of labor
+0,1,0,Vaginal
+1,0,0,Repeat
+0,0,0,Vaginal
+1,0,0,medical or surgical indication for C/S
+1,0,2,Repeat
+0,0,0,Other
+1,0,2,Repeat
+1,0,0,Repeat
+0,0,0,Vaginal
+1,0,0,Repeat
+0,0,2,Vaginal
+0,0,0,Other
+1,0,2,Repeat
+1,0,3,Repeat
+0,0,2,Vaginal
+0,1,0,Elective
+0,0,2,Vaginal
+0,1,0,Vaginal
+0,1,0,Vaginal
+0,0,1,Vaginal
+1,0,2,Elective
+0,0,0,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,0,Elective
+0,1,0,Vaginal
+1,0,2,Repeat
+0,0,1,Vaginal
+0,0,0,Vaginal
+1,1,2,Failed Induction of labor
+0,1,2,Vaginal
+1,0,2,Repeat
+1,1,0,Other
+0,1,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,1,Other
+1,0,0,Elective
+1,0,1,Failed Induction of labor
+0,0,0,Elective
+1,0,0,Repeat
+1,0,1,Other
+0,0,0,Repeat
+1,0,3,Elective
+1,1,0,Repeat
+0,0,2,Vaginal
+1,0,0,Repeat
+1,1,0,Repeat
+1,0,1,Repeat
+1,0,0,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,0,Repeat
+0,1,0,Vaginal
+1,1,3,Failed Induction of labor
+1,1,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+0,1,0,Vaginal
+1,0,2,Vaginal
+0,1,1,Other
+0,0,0,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,1,2,Vaginal
+0,0,1,Vaginal
+0,1,0,medical or surgical indication for C/S
+1,0,0,Failed Induction of labor
+0,1,2,Vaginal
+1,0,1,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,2,Repeat
+1,0,0,Repeat
+1,0,3,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,0,2,Vaginal
+0,1,2,Vaginal
+1,0,2,Repeat
+1,0,0,Other
+1,0,2,Other
+1,1,2,Failed Induction of labor
+1,0,2,Elective
+0,1,2,Failed Induction of labor
+0,0,2,Vaginal
+0,1,1,Vaginal
+0,1,2,Vaginal
+1,1,0,Repeat
+0,1,0,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+0,1,0,Other
+0,0,0,Vaginal
+0,0,2,Vaginal
+0,1,0,Macrosomia
+1,0,0,Failed Induction of labor
+0,0,0,Repeat
+0,1,2,Vaginal
+0,0,2,Vaginal
+1,0,2,Other
+0,1,2,Vaginal
+1,0,2,Repeat
+1,0,0,Repeat
+0,0,0,Vaginal
+0,0,0,Vaginal
+1,0,0,Repeat
+1,0,2,Repeat
+1,0,0,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,1,2,Vaginal
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,0,Vaginal
+1,0,2,Repeat
+0,0,0,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,1,1,Vaginal
+1,0,2,Failed Induction of labor
+1,0,0,medical or surgical indication for C/S
+1,1,2,Elective
+1,0,0,Repeat
+0,1,2,Vaginal
+0,1,0,Vaginal
+0,1,0,Vaginal
+0,1,2,Vaginal
+1,1,0,Repeat
+0,1,1,Vaginal
+0,0,2,Vaginal
+0,1,2,Vaginal
+0,0,0,Vaginal
+0,1,2,Vaginal
+1,0,0,Repeat
+1,0,0,medical or surgical indication for C/S
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,0,Failed Induction of labor
+1,0,0,Repeat
+0,0,0,medical or surgical indication for C/S
+1,1,1,Failed Induction of labor
+0,1,0,Repeat
+1,1,2,Failed Induction of labor
+0,0,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,0,Elective
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,2,Repeat
+0,0,2,medical or surgical indication for C/S
+0,0,0,Vaginal
+1,0,2,Other
+1,0,0,Failed Induction of labor
+0,0,0,Vaginal
+0,0,0,Vaginal
+0,0,0,Vaginal
+0,1,2,Vaginal
+0,0,2,Vaginal
+0,0,0,Vaginal
+1,0,0,Other
+1,0,2,Repeat
+0,1,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,1,Repeat
+1,1,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,2,Repeat
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,0,0,Repeat
+0,1,0,Failed Induction of labor
+1,0,2,Failed Induction of labor
+0,1,0,Vaginal
+0,0,0,medical or surgical indication for C/S
+1,0,2,Repeat
+1,0,2,Repeat
+1,1,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,0,Repeat
+1,1,0,Repeat
+0,1,0,Vaginal
+1,1,2,medical or surgical indication for C/S
+1,0,0,Repeat
+0,0,2,Repeat
+1,1,2,medical or surgical indication for C/S
+1,0,2,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+0,1,2,Vaginal
+0,0,0,Vaginal
+0,1,2,Vaginal
+1,0,0,Repeat
+1,0,3,Repeat
+0,1,1,Vaginal
+1,0,0,medical or surgical indication for C/S
+1,0,3,Repeat
+0,1,0,Vaginal
+1,0,0,Failed Induction of labor
+1,0,1,Repeat
+1,0,2,medical or surgical indication for C/S
+0,1,1,Vaginal
+0,1,0,medical or surgical indication for C/S
+0,0,2,Vaginal
+0,1,0,Vaginal
+1,0,0,Failed Induction of labor
+0,0,2,Vaginal
+1,0,2,Repeat
+1,0,2,Other
+1,0,2,medical or surgical indication for C/S
+0,0,1,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,1,0,Vaginal
+0,1,0,Vaginal
+0,1,0,Vaginal
+1,1,2,Other
+0,1,0,Vaginal
+0,1,0,medical or surgical indication for C/S
+0,1,1,Vaginal
+1,0,0,Repeat
+0,0,0,Macrosomia
+0,0,0,Vaginal
+0,0,0,medical or surgical indication for C/S
+1,0,0,Repeat
+0,1,0,Failed Induction of labor
+0,1,3,Vaginal
+0,0,1,Vaginal
+1,0,0,Elective
+0,1,0,Vaginal
+1,0,3,medical or surgical indication for C/S
+1,0,2,Elective
+0,0,0,medical or surgical indication for C/S
+1,0,1,Repeat
+0,1,2,Vaginal
+0,1,0,Vaginal
+1,0,2,Vaginal
+1,0,0,Repeat
+0,1,0,Other
+0,1,2,Vaginal
+1,1,2,Failed Induction of labor
+0,1,3,Vaginal
+1,0,2,Repeat
+1,1,3,Failed Induction of labor
+0,0,0,Other
+0,1,0,Vaginal
+0,1,1,Vaginal
+0,1,1,Vaginal
+0,1,2,Vaginal
+0,0,0,Vaginal
+1,1,2,Failed Induction of labor
+0,1,0,Vaginal
+1,0,1,Repeat
+0,0,0,Vaginal
+0,1,2,medical or surgical indication for C/S
+1,0,1,Repeat
+1,0,1,Repeat
+1,0,2,Repeat
+0,1,0,Repeat
+0,1,0,Vaginal
+1,0,2,Elective
+0,1,0,Vaginal
+0,1,2,Vaginal
+1,0,2,Elective
+1,0,0,Repeat
+0,1,0,Vaginal
+1,0,2,Repeat
+1,0,0,Repeat
+0,0,2,Vaginal
+1,0,2,Repeat
+0,0,0,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,0,2,Vaginal
+0,1,1,Vaginal
+0,0,0,Vaginal
+0,0,1,Vaginal
+0,0,1,Vaginal
+1,0,2,Vaginal
+0,1,0,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+1,0,0,Elective
+1,0,0,Elective
+1,0,0,Repeat
+1,1,2,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,2,Repeat
+1,0,3,Repeat
+1,0,0,Macrosomia
+1,0,1,Other
+1,0,0,Elective
+0,0,0,Vaginal
+0,1,0,medical or surgical indication for C/S
+0,1,1,Vaginal
+1,0,2,Elective
+1,0,2,medical or surgical indication for C/S
+1,0,1,Elective
+0,0,0,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,1,0,Vaginal
+0,0,0,Vaginal
+0,0,2,Vaginal
+1,0,0,Other
+1,0,0,Repeat
+0,1,2,Vaginal
+0,0,2,Vaginal
+1,0,2,Repeat
+0,1,0,Vaginal
+1,0,1,Repeat
+0,0,0,Vaginal
+0,1,0,Vaginal
+1,1,1,Failed Induction of labor
+1,0,3,medical or surgical indication for C/S
+0,0,0,medical or surgical indication for C/S
+1,0,2,Repeat
+1,0,0,Repeat
+0,1,0,Repeat
+0,0,0,medical or surgical indication for C/S
+1,1,0,Repeat
+1,1,2,Failed Induction of labor
+1,1,3,Failed Induction of labor
+1,1,0,Other
+1,0,2,medical or surgical indication for C/S
+0,0,1,Vaginal
+1,0,2,Elective
+1,0,2,Repeat
+1,0,2,Repeat
+0,1,1,Vaginal
+0,1,0,medical or surgical indication for C/S
+0,0,2,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,1,3,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+1,0,2,Repeat
+1,0,3,Repeat
+0,0,0,Vaginal
+1,0,2,Repeat
+1,0,0,Repeat
+1,0,0,Other
+0,0,0,Vaginal
+1,0,0,Repeat
+1,0,0,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,0,medical or surgical indication for C/S
+0,1,2,Vaginal
+0,1,2,Elective
+1,0,2,Repeat
+1,0,0,Repeat
+0,0,0,Vaginal
+0,1,0,Vaginal
+1,1,3,Failed Induction of labor
+1,0,2,Repeat
+0,1,1,Vaginal
+0,0,0,Vaginal
+1,0,0,Repeat
+0,1,2,Vaginal
+1,1,1,medical or surgical indication for C/S
+0,0,0,Vaginal
+1,0,0,medical or surgical indication for C/S
+0,0,0,Vaginal
+1,1,2,Repeat
+0,1,0,medical or surgical indication for C/S
+1,0,3,Elective
+1,0,3,Other
+0,1,2,Vaginal
+1,0,2,Repeat
+0,0,1,Vaginal
+1,0,2,Elective
+0,0,0,Vaginal
+0,0,0,Vaginal
+0,1,0,Vaginal
+0,0,2,Vaginal
+1,1,1,medical or surgical indication for C/S
+0,0,2,Vaginal
+0,1,0,Failed Induction of labor
+0,1,2,Vaginal
+1,0,3,medical or surgical indication for C/S
+1,1,2,Elective
+1,1,2,Failed Induction of labor
+1,0,2,Repeat
+0,0,3,Vaginal
+0,1,0,Vaginal
+0,1,0,Vaginal
+0,0,0,Vaginal
+0,0,2,Vaginal
+1,0,0,Repeat
+1,1,2,Failed Induction of labor
+0,0,2,Vaginal
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,0,Vaginal
+0,0,2,Vaginal
+1,1,0,Repeat
+0,1,2,Vaginal
+0,0,0,Repeat
+1,1,1,medical or surgical indication for C/S
+1,0,0,Repeat
+0,0,3,Vaginal
+0,0,2,Vaginal
+1,0,2,Repeat
+1,0,2,medical or surgical indication for C/S
+1,1,0,Repeat
+0,1,0,Vaginal
+1,0,2,Repeat
+1,0,1,Repeat
+1,0,2,Repeat
+1,0,3,medical or surgical indication for C/S
+1,1,2,Failed Induction of labor
+0,0,1,Vaginal
+1,0,2,Repeat
+1,0,2,Repeat
+0,1,2,Vaginal
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+0,1,0,Vaginal
+1,0,1,medical or surgical indication for C/S
+0,1,0,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,3,Repeat
+1,1,0,Repeat
+1,0,3,Repeat
+0,0,6,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,0,Repeat
+1,0,0,Repeat
+1,0,0,Repeat
+1,0,2,Repeat
+1,0,2,Repeat
+0,1,0,Vaginal
+1,0,3,Other
+0,1,0,Vaginal
+1,0,0,Repeat
+1,0,2,Repeat
+1,0,0,Elective
+1,1,0,Failed Induction of labor
+0,0,0,Vaginal
+0,0,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,3,Vaginal
+1,0,2,Repeat
+0,1,3,Vaginal
+1,0,2,Other
+0,0,0,Repeat
+0,0,3,Vaginal
+0,1,0,Elective
+0,1,0,Vaginal
+0,0,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,2,Repeat
+0,1,2,Vaginal
+1,0,2,Repeat
+1,0,0,Repeat
+1,0,0,Repeat
+0,1,2,Vaginal
+0,0,3,Vaginal
+1,0,0,Failed Induction of labor
+0,0,2,Vaginal
+0,0,0,Vaginal
+1,0,0,Repeat
+1,0,0,Failed Induction of labor
+1,0,2,Repeat
+1,1,2,medical or surgical indication for C/S
+0,0,0,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,0,Repeat
+0,1,2,Vaginal
+1,0,0,Repeat
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,2,Repeat
+1,0,0,Repeat
+1,1,0,Elective
+0,0,0,Other
+0,0,0,Vaginal
+0,1,0,medical or surgical indication for C/S
+1,0,2,Repeat
+0,0,1,Vaginal
+0,0,2,Vaginal
+1,0,0,Elective
+1,0,2,Repeat
+1,0,2,Elective
+1,1,1,Failed Induction of labor
+0,1,0,medical or surgical indication for C/S
+1,0,2,Macrosomia
+1,0,2,medical or surgical indication for C/S
+1,1,2,medical or surgical indication for C/S
+1,0,2,Repeat
+0,0,0,Vaginal
+0,0,0,medical or surgical indication for C/S
+1,1,0,Repeat
+1,0,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+0,1,0,Macrosomia
+1,0,0,Repeat
+1,0,2,Repeat
+0,0,4,Vaginal
+1,1,1,Failed Induction of labor
+1,0,1,medical or surgical indication for C/S
+1,0,0,Other
+0,1,0,Vaginal
+1,0,0,Repeat
+0,1,2,Vaginal
+1,0,0,Repeat
+1,0,3,Repeat
+1,0,0,Other
+1,0,0,Repeat
+1,0,2,Other
+1,0,2,Other
+0,0,0,Repeat
+0,0,0,Failed Induction of labor
+0,0,2,Vaginal
+0,1,0,Other
+0,1,0,Repeat
+1,1,0,Other
+0,0,1,Vaginal
+1,1,3,medical or surgical indication for C/S
+1,1,2,Elective
+1,1,0,Repeat
+1,1,2,Failed Induction of labor
+0,1,0,medical or surgical indication for C/S
+1,0,0,Failed Induction of labor
+1,0,0,Repeat
+0,0,0,Vaginal
+1,0,0,Repeat
+0,0,2,Vaginal
+1,1,1,Repeat
+0,1,3,Vaginal
+1,0,2,Other
+0,0,2,Vaginal
+1,0,2,Elective
+0,1,0,Vaginal
+1,0,0,Repeat
+1,0,1,Repeat
+1,0,0,Repeat
+0,0,1,Vaginal
+1,1,2,medical or surgical indication for C/S
+0,0,1,Vaginal
+1,0,0,Elective
+0,0,0,Vaginal
+1,0,2,Repeat
+1,1,2,Failed Induction of labor
+1,0,0,Repeat
+1,1,0,Repeat
+0,1,2,Vaginal
+0,1,3,Vaginal
+0,1,2,Vaginal
+0,1,2,Vaginal
+1,0,2,Elective
+1,0,0,Repeat
+0,0,2,Vaginal
+0,1,0,Vaginal
+0,1,0,Vaginal
+1,0,3,Elective
+1,0,2,medical or surgical indication for C/S
+1,1,2,medical or surgical indication for C/S
+0,1,1,Vaginal
+0,1,2,Vaginal
+0,0,0,Vaginal
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,0,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+0,1,2,Vaginal
+1,0,2,Repeat
+1,0,2,Other
+0,0,0,Vaginal
+1,0,1,medical or surgical indication for C/S
+0,0,0,medical or surgical indication for C/S
+1,0,1,Elective
+1,0,0,Repeat
+0,1,2,Vaginal
+1,0,2,Other
+1,0,2,Repeat
+1,1,2,medical or surgical indication for C/S
+1,0,2,medical or surgical indication for C/S
+0,1,0,Vaginal
+1,0,0,Repeat
+0,1,0,medical or surgical indication for C/S
+1,0,2,Repeat
+1,0,0,Repeat
+1,0,2,Repeat
+0,1,2,Vaginal
+0,0,2,Vaginal
+0,0,1,Vaginal
+1,0,1,Repeat
+1,0,2,Elective
+1,0,1,Repeat
+0,0,2,Vaginal
+0,1,2,Vaginal
+0,1,0,Vaginal
+0,1,4,Vaginal
+1,0,2,Repeat
+1,1,2,Failed Induction of labor
+0,0,2,Vaginal
+1,0,2,Failed Induction of labor
+1,0,2,Repeat
+1,0,2,Repeat
+1,1,2,Failed Induction of labor
+1,0,0,Repeat
+0,1,0,Vaginal
+1,0,1,Repeat
+1,0,3,Repeat
+0,1,0,Vaginal
+1,0,1,Elective
+0,1,2,Vaginal
+0,1,0,Other
+1,0,0,Repeat
+0,0,3,Vaginal
+0,1,2,Vaginal
+0,0,0,Elective
+0,1,0,medical or surgical indication for C/S
+0,0,2,Vaginal
+1,0,2,Other
+0,1,0,Repeat
+1,0,1,medical or surgical indication for C/S
+1,1,0,Repeat
+1,0,2,Repeat
+1,1,2,medical or surgical indication for C/S
+1,0,0,Repeat
+1,0,0,Repeat
+0,1,2,Vaginal
+1,1,2,Failed Induction of labor
+0,1,0,Vaginal
+0,0,2,Vaginal
+1,0,3,Failed Induction of labor
+0,0,2,Vaginal
+1,1,2,Failed Induction of labor
+0,0,0,Vaginal
+0,1,3,Vaginal
+1,1,0,Repeat
+0,0,2,Vaginal
+0,1,2,Vaginal
+1,1,2,Elective
+1,1,2,Failed Induction of labor
+0,1,0,Repeat
+1,1,2,Other
+1,0,3,Repeat
+1,0,2,Failed Induction of labor
+1,0,3,Repeat
+1,0,2,Repeat
+0,0,0,Vaginal
+0,0,2,Vaginal
+1,0,2,Repeat
+1,0,0,Repeat
+1,0,2,Other
+1,0,0,Repeat
+0,1,0,Vaginal
