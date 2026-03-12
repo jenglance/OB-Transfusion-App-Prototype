@@ -1,0 +1,10 @@
+name: modelrshinyapp
+title:
+username: jenglance
+account: jenglance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16880798
+bundleId: 11697626
+url: https://jenglance.shinyapps.io/modelrshinyapp/
+version: 1
